@@ -21,3 +21,7 @@ writeFileSync(
   join(OUTPUT_DIR, 'entry.txt'),
   'Monday showed up unannounced, ate all my motivation, left the dishes in the sink, and still expects five stars. One star. Would not Monday again.',
 );
+
+// Revision note: program re-run after the wording revision; output
+// verified again at exactly 145 characters, one line, within the 1-200
+// character gate.
